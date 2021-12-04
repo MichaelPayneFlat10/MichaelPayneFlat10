@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MichaelPayneFlat10
 - 👀 I’m interested in web design and computer 3D modelling
-- 🌱 I’m currently learning Blender £D version 3, Webflow and Markdown
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Blender 3D version 3, Webflow and Markdown
+- 💞️ I’m not looking for collaboration at the moment
 - 📫 Best way to reach me is via email`: michael.a.payne777@gmail.com
 
 <!---
